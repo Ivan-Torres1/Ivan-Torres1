@@ -5,5 +5,5 @@ Actualmente estoy aprendiendo Python de forma autodidacta. Me gusta practicar re
 💡 Me apasiona el aprendizaje continuo y estoy abierto a colaborar en proyectos innovadores.  
 🚀 Me adapto fácilmente a nuevos desafíos y entornos.
 
-📬 Conectá conmigo en [LinkedIn]([https://www.linkedin.com/in/ivan-torres1](https://www.linkedin.com/in/ivan-torres-820914257/))  
+📬 Conectá conmigo en [LinkedIn]([[https://www.linkedin.com/in/ivan-torres1])  
 🔎 Explorá mis repositorios en GitHub.
